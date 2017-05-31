@@ -1,5 +1,6 @@
-# Exile-Malden
-Courtesy of KITR Gaming
+![Courtesy of KITR Gaming](http://kitrgaming.com/wp-content/uploads/2017/03/newheader.png)
+
+# Exile Malden Mission File
 
 Release date: 
 Soon.™
