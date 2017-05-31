@@ -2,7 +2,7 @@
 Courtesy of KITR Gaming
 
 Release date: 
-Soon™.
+Soon.™
 
 What this will include:
 A stock Exile mission file, customized for the new Malden map. 
