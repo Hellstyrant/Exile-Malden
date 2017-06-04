@@ -1,4 +1,4 @@
-
+![Courtesy of KITR Gaming](http://kitrgaming.com/header2.png)
 
 # Exile Malden Mission File
 
