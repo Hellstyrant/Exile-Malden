@@ -12,6 +12,10 @@ class Mission
 		"exile_client"
 	};
 	randomSeed=8080942;
+	class ScenarioData
+	{
+		author = "Hellstyrant";
+	};
 	class Intel
 	{
 		timeOfChanges=1800.0002;
