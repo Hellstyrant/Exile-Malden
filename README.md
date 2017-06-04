@@ -1,4 +1,4 @@
-![Courtesy of KITR Gaming](http://kitrgaming.com/wp-content/uploads/2017/03/newheader.png)
+![Courtesy of KITR Gaming](http://kitrgaming.com/headerurl.png)
 
 # Exile Malden Mission File
 
