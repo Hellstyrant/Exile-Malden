@@ -2,13 +2,10 @@
 
 # Exile Malden Mission File
 
-Release date: 
-Soon.™
-
-What this will include:
+What's included:
 A stock Exile mission file, customized for the new Malden map. 
 
-What this will not include:
+What's not included:
 Server files, custom scripts, loot tables, loot positions, etc.
 
 How to install:
