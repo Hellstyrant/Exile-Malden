@@ -1,6 +1,6 @@
 ![Courtesy of KITR Gaming](http://kitrgaming.com/header2.png)
 
-# Exile Malden Mission File
+# Exile.Malden.pbo
 
 What's included:
 A stock Exile mission file, customized for the new Malden map. 
